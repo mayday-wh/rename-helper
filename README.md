@@ -4,6 +4,10 @@
 
 当前版本：v1.2
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb119e4a-5801-46b6-97fa-4418b1856565" alt="Video_X v3.0" width="60%">
+</p>
+
 ## 主要功能
 
 - 批量预览文件重命名结果，确认后再执行。
